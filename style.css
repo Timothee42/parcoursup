@@ -130,12 +130,12 @@ nav h3{
 	text-indent: 10px;
 }
 
-nav h3:hover{
+nav h3:onclick{
 	color: #666666;
 	border-bottom: 2.5px solid #4B4B4B;
 }
 
-nav ul:hover{
+nav ul:onclick{
 	border-bottom: 2px solid #4B4B4B:
 }
 .sous{
