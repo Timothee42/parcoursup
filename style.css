@@ -150,7 +150,7 @@ nav ul:onclick{
     position: absolute;
     width: 100%;
 }
-nav > ul li:hover .sous{
+nav > ul li:onclick .sous{
     display: block;
 }
 .sous li{
@@ -162,7 +162,7 @@ nav > ul li:hover .sous{
     padding: 10px;
     border-bottom: none;
 }
-.sous h3:hover{
+.sous h3:onlick{
     border-bottom: none;
     background-color: RGBa(200,200,200,0.1);
 }
